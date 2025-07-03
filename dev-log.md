@@ -16,11 +16,11 @@ Michelle Lim 7/2/25
 
 
 ## Code Snippet 
-'''python 
+```python 
 num1_str, operator, num2_str = parts
 num1 = float(num1_str)
 num2 = float(num2_str)
-'''
+```
 
 
 ## Helpful Links
